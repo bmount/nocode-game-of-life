@@ -7,8 +7,13 @@ This is a repo where I only write the comments. All the code is from Copilot.
 
 Initial browser version here:
 
+*/
+```
+
 [https://bmount.github.io/nocode-game-of-life/](https://bmount.github.io/nocode-game-of-life/)
 
+```
+/*
 Second version is python, using pygame, which I had never tried. I think I may have deleted
 a few of the comments toward the end and written a function name (maybe). But no code.
 
